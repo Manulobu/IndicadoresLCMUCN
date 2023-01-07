@@ -1,12 +1,12 @@
-﻿Variables
-año
-mes
-tipomov
-unidad
-proyecto
-cuenta
-fecha
-comrpobcont
-cat
-desc
-valor
+﻿Variables,Descripción
+año,año en que se realiza el gasto
+mes,mes del año en el que se realiza el gasto
+tipomov,tipo de operacón contable
+unidad,unidad contable
+proyecto,proyecto al que pertenece una operación contable
+cuenta,cuenta a la que se destina la operación contable
+fecha,fecha en la que se realiza una operación contable
+comrpobcont,comprobante
+cat,categoría
+desc,Descripción
+valor,monto de la operación contable
